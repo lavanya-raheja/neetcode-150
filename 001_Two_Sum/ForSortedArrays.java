@@ -18,4 +18,5 @@ class Solution {
 }
 
 /* Time Complexity: O(n)
+If we have to sort the array also, the time complexity becomes O(nlogn)
 This approach only works if the array is already sorted, or if we need to return actual values, not indices of values. */
