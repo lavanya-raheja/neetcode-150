@@ -1,23 +1,89 @@
-# 🚀 NeetCode 150 - Road to Automation Engineer
-> My journey mastering Data Structures and Algorithms while transitioning from Manual Testing to Automation.
+# NeetCode 150 - Java DSA Journey
 
-## 📊 Progress Tracker
-| Category | Total Solved | Status |
-| :--- | :---: | :--- |
-| **Arrays & Hashing** | 9/9 | ✅ Completed |
-| **Two Pointers** | 5/5 | ✅ Completed |
-| **Stacks** | 2/7 | 🏗️ In Progress |
-| **Sliding Window** | 0/6 | ⏳ To Do |
-| **Binary Search** | 0/7 | ⏳ To Do |
+A structured repository containing my solutions to the NeetCode 150 problems using Java.
+
+This repository is part of my preparation for Software Development and Automation Engineering roles, with a focus on problem-solving patterns, optimized solutions, and consistency.
 
 ---
 
-## 🛠️ Tech Stack & Goals
-* **Primary Language:** Java
-* **Focus:** Time/Space Complexity optimization ($O(n)$, $O(1)$).
-* **Objective:** Complete the NeetCode 150 list within 3 months to strengthen the logical foundation required for advanced Test Automation Frameworks.
+## Goals
+
+- Strengthen Data Structures & Algorithms fundamentals
+- Improve problem-solving and logical thinking
+- Prepare for Software Development and SDET interviews
+- Build strong foundations for automation engineering
 
 ---
 
-## 📂 Project Structure
-Each file is named according to the LeetCode problem title for easy reference.
+## Tech Stack
+
+- Java
+- IntelliJ IDEA
+- Git & GitHub
+
+---
+
+## Repository Structure
+
+Problems are organized by topic for better revision and pattern recognition.
+
+```plaintext
+arrays-hashing/
+two-pointers/
+stack/
+binary-search/
+sliding-window/
+linked-list/
+trees/
+graphs/
+dynamic-programming/
+```
+
+---
+
+## Topics Covered
+
+- Arrays & Hashing
+- Two Pointers
+- Stack
+- Binary Search
+- Sliding Window
+- Linked List
+- Trees
+- Heap / Priority Queue
+- Backtracking
+- Graphs
+- Dynamic Programming
+
+---
+
+## Problem Solving Approach
+
+For each problem, I focus on:
+
+- Understanding brute-force solutions
+- Deriving optimized approaches
+- Improving time and space complexity
+- Writing clean and readable code
+- Identifying reusable patterns
+
+---
+
+## Current Routine
+
+- Solving 2–3 problems daily
+- Revising previously solved patterns
+- Practicing optimized solutions
+- Maintaining consistency alongside automation engineering preparation
+
+---
+
+## Objective
+
+The goal of this repository is to build strong engineering fundamentals while transitioning from Manual Testing to Automation Engineering and Software Development roles.
+
+---
+
+## Author
+
+Lavanya Raheja
