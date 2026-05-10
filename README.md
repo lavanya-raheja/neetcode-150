@@ -1,17 +1,17 @@
 # NeetCode 150 - Java DSA Journey
 
-A structured repository containing my solutions to the NeetCode 150 problems using Java.
+A structured repository containing my Java solutions for the NeetCode 150 problem set.
 
-This repository is part of my preparation for Software Development and Automation Engineering roles, with a focus on problem-solving patterns, optimized solutions, and consistency.
+This repository is part of my preparation for Software Development and Automation Engineering roles, with a focus on consistency, problem-solving, and strengthening core engineering fundamentals.
 
 ---
 
 ## Goals
 
 - Strengthen Data Structures & Algorithms fundamentals
-- Improve problem-solving and logical thinking
+- Improve logical thinking and problem-solving skills
 - Prepare for Software Development and SDET interviews
-- Build strong foundations for automation engineering
+- Build consistency through daily practice
 
 ---
 
@@ -25,19 +25,20 @@ This repository is part of my preparation for Software Development and Automatio
 
 ## Repository Structure
 
-Problems are organized by topic for better revision and pattern recognition.
+Problems are currently organized sequentially based on the NeetCode 150 roadmap.
 
 ```plaintext
-arrays-hashing/
-two-pointers/
-stack/
-binary-search/
-sliding-window/
-linked-list/
-trees/
-graphs/
-dynamic-programming/
+001_Two_Sum
+002_Single_Number
+003_Contains_Duplicate
+004_Valid_Anagram
+...
 ```
+
+Each folder contains:
+- Java solution
+- Optimized implementation
+- Problem-specific logic and approach
 
 ---
 
@@ -48,39 +49,34 @@ dynamic-programming/
 - Stack
 - Binary Search
 - Sliding Window
-- Linked List
-- Trees
-- Heap / Priority Queue
-- Backtracking
-- Graphs
-- Dynamic Programming
+- More topics will be added progressively
 
 ---
 
-## Problem Solving Approach
+## Problem Solving Focus
 
 For each problem, I focus on:
 
-- Understanding brute-force solutions
-- Deriving optimized approaches
+- Understanding brute-force approaches
+- Writing optimized solutions
 - Improving time and space complexity
-- Writing clean and readable code
-- Identifying reusable patterns
+- Building pattern recognition
+- Writing clean and readable Java code
 
 ---
 
 ## Current Routine
 
 - Solving 2–3 problems daily
-- Revising previously solved patterns
-- Practicing optimized solutions
-- Maintaining consistency alongside automation engineering preparation
+- Revising previously solved questions
+- Practicing alongside automation engineering preparation
+- Maintaining long-term consistency
 
 ---
 
 ## Objective
 
-The goal of this repository is to build strong engineering fundamentals while transitioning from Manual Testing to Automation Engineering and Software Development roles.
+The goal of this repository is to build strong software engineering fundamentals while transitioning from Manual Testing to Automation Engineering and Software Development roles.
 
 ---
 
